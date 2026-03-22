@@ -5,33 +5,33 @@
     "link": "https://blog.catwu.cn/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.catwu.cn/"
+    "icon": "Images",
+    "name": "图床",
+    "link": "http://img.catwu.cn/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.catwu.cn/"
+    "icon": "Tools",
+    "name": "工具",
+    "link": "http://tool.catwu.cn/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.catwu.cn/"
+    "link": "http://nav.catwu.cn/"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://web.catwu.cn/"
+    "link": "http://web.catwu.cn/"
+  },
+    {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "http://pan.catwu.cn/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.catwu.cn/"
   },
-    {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.catwu.cn/"
-  }
 ]
